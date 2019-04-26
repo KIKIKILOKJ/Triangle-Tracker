@@ -11,6 +11,11 @@
   font-family: fantasy;
   text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
   float: inherit;
+  width: 50%;
+  border-left: 10px solid black;
+  border-right: 10px solid black;
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
 }
 
 .rada {
