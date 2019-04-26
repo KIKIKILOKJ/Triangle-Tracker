@@ -13,8 +13,8 @@
 }
 
 .rada {
-  float: right;
   font-weight: bolder;
   font-style: italic;
   text-shadow: 5px 5px brown;
+  text-align: center;
 }
