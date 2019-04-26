@@ -2,7 +2,7 @@
   font-style: italic;
   font-family: sans-serif;
   font-weight: normal;
-  text-shadow: 1px 1px 2px sienna;
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
 }
 
 .casket {
@@ -15,5 +15,5 @@
 .rada {
   font-weight: bolder;
   font-style: italic;
-  text-shadow: 5px 5px brown;
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
 }
